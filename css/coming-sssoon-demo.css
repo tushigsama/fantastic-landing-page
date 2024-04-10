@@ -165,8 +165,9 @@
 
 .motto{
     color: #333333;
-    font-size: 56px;
+    font-size: 65px;
     font-weight: 300;
+    font-family: "Courier New", monospace;
     text-align: center;
     z-index: 3;
     margin-top: 100px;
